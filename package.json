@@ -1,0 +1,17 @@
+{
+  "name": "hodlinfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Shraddha",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mysql2": "^3.2.4",
+    "nodemon": "^2.0.16"
+  }
+}
